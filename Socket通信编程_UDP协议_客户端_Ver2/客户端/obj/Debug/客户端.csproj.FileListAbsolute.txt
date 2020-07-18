@@ -1,0 +1,7 @@
+E:\Visual_Studio_WorkStation\2020编程练习[16道]\Socket通信编程_UDP协议_客户端_Ver2\客户端\bin\Debug\客户端.exe.config
+E:\Visual_Studio_WorkStation\2020编程练习[16道]\Socket通信编程_UDP协议_客户端_Ver2\客户端\bin\Debug\客户端.exe
+E:\Visual_Studio_WorkStation\2020编程练习[16道]\Socket通信编程_UDP协议_客户端_Ver2\客户端\bin\Debug\客户端.pdb
+E:\Visual_Studio_WorkStation\2020编程练习[16道]\Socket通信编程_UDP协议_客户端_Ver2\客户端\obj\Debug\客户端.csprojAssemblyReference.cache
+E:\Visual_Studio_WorkStation\2020编程练习[16道]\Socket通信编程_UDP协议_客户端_Ver2\客户端\obj\Debug\客户端.csproj.CoreCompileInputs.cache
+E:\Visual_Studio_WorkStation\2020编程练习[16道]\Socket通信编程_UDP协议_客户端_Ver2\客户端\obj\Debug\客户端.exe
+E:\Visual_Studio_WorkStation\2020编程练习[16道]\Socket通信编程_UDP协议_客户端_Ver2\客户端\obj\Debug\客户端.pdb

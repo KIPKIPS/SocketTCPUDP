@@ -1,0 +1,7 @@
+E:\VisualStudioWorkStation\CsharpAdvanced\Socket编程_TCP协议_客户端\Socket编程_TCP协议_客户端\bin\Debug\Socket编程_TCP协议_客户端.exe.config
+E:\VisualStudioWorkStation\CsharpAdvanced\Socket编程_TCP协议_客户端\Socket编程_TCP协议_客户端\bin\Debug\Socket编程_TCP协议_客户端.exe
+E:\VisualStudioWorkStation\CsharpAdvanced\Socket编程_TCP协议_客户端\Socket编程_TCP协议_客户端\bin\Debug\Socket编程_TCP协议_客户端.pdb
+E:\VisualStudioWorkStation\CsharpAdvanced\Socket编程_TCP协议_客户端\Socket编程_TCP协议_客户端\obj\Debug\Socket编程_TCP协议_客户端.csproj.CoreCompileInputs.cache
+E:\VisualStudioWorkStation\CsharpAdvanced\Socket编程_TCP协议_客户端\Socket编程_TCP协议_客户端\obj\Debug\Socket编程_TCP协议_客户端.exe
+E:\VisualStudioWorkStation\CsharpAdvanced\Socket编程_TCP协议_客户端\Socket编程_TCP协议_客户端\obj\Debug\Socket编程_TCP协议_客户端.pdb
+E:\VisualStudioWorkStation\CsharpAdvanced\Socket编程_TCP协议_客户端\Socket编程_TCP协议_客户端\obj\Debug\Socket编程_TCP协议_客户端.csprojAssemblyReference.cache
